@@ -72,3 +72,7 @@ body{
     /*border: 200px, 200px, 200px, 200px;*/
     border-color: blue;
 }
+#content{
+    position: relative;
+    align-items: center;
+}
